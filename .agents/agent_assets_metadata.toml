@@ -1,0 +1,62 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "jumutCDs2BRpuoSC_OWui"
+uri = "file://artifacts/gen-solutions/public/hero-bg.png"
+type = "image"
+title = "Abstract AI network nodes"
+
+[[generated]]
+id = "QDNvUZdWGIb1YsDYdq-v9"
+uri = "file://artifacts/gen-solutions/public/services-workflow.png"
+type = "image"
+title = "AI workflow automation abstract"
+
+[[generated]]
+id = "hTL-OmTYtPtuxbWDlgs-Z"
+uri = "file://artifacts/gen-solutions/public/services-agent.png"
+type = "image"
+title = "AI agent chatbot abstract"
+
+[[generated]]
+id = "l6gOmRE533j7OQvVjl_w0"
+uri = "file://artifacts/gen-solutions/public/services-data.png"
+type = "image"
+title = "Data integration abstract"
+
+[[generated]]
+id = "93Wy1hw2L98jzQP5O66xd"
+uri = "file://artifacts/gen-solutions/public/case-ecommerce.png"
+type = "image"
+title = "E-commerce operations scaling abstract"
+
+[[generated]]
+id = "Upv3yHWmMRlOnLfJ0Y3Rb"
+uri = "file://artifacts/gen-solutions/public/case-finance.png"
+type = "image"
+title = "Finance workflow automation abstract"
+
+[[generated]]
+id = "mCOMRx5FIvBJ5Np8KT6cD"
+uri = "file://artifacts/gen-solutions/public/avatar-1.png"
+type = "image"
+title = "CEO Avatar male"
+
+[[generated]]
+id = "znONAWMhiuAqw2fp98YjK"
+uri = "file://artifacts/gen-solutions/public/avatar-2.png"
+type = "image"
+title = "CTO Avatar female"
+
+[[generated]]
+id = "gNel78U8kpm9CoHaba3Ko"
+uri = "file://artifacts/gen-solutions/public/blog-1.png"
+type = "image"
+title = "AI blog post cover"
+
+[[generated]]
+id = "TabPJW72r4E7pdSZnfbOJ"
+uri = "file://artifacts/gen-solutions/public/blog-2.png"
+type = "image"
+title = "Automation blog post cover"
